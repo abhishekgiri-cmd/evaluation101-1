@@ -1,0 +1,13 @@
+ .addTask {
+  justify-content: space-between;
+
+} 
+
+button {
+  font-size: large;
+}
+
+input{
+  width: 60%;
+  height: 40px;
+}
